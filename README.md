@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning React,Angular,Parallel programming in C#
+🌱 I’m currently learning React,Angular and Parallel programming in C#
 <!--
 **pksivanantham/pksivanantham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
